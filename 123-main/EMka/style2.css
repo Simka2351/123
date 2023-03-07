@@ -99,3 +99,17 @@
   font-size: 19px;
   font-weight: 400;
 }
+.line {
+  padding-bottom: 20px;
+  border-bottom: 0.7px solid rgba(0, 0, 0, 0.2);
+}
+.about {
+  flex: 1;
+  display: flex;
+  padding: 30px;
+  justify-content: space-around;
+  margin-left: 10%;
+  font-size: 21px;
+  flex-direction: column;
+  color: black;
+}
